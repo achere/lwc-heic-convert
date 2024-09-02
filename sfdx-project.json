@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "LWC HEIC Convert",
+      "versionDescription": "A service LWC that converts HEIC images to JPEG"
+    }
+  ],
+  "name": "lwc-heic-convert",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "LWC HEIC Convert": "0Hod200000004JlCAI",
+    "LWC HEIC Convert@1.0.0-1": "04td20000000kndAAA"
+  }
+}
